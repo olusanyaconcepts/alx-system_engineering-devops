@@ -1,1 +1,1 @@
-engineer-devops
+0x00. shell, basic
