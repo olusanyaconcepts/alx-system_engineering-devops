@@ -1,0 +1,15 @@
+total 23
+drwxr-xr-x 1 Towbola 197121   0 May 30 16:56 .
+drwxr-xr-x 1 Towbola 197121   0 May 30 16:07 ..
+-rwxr-xr-x 1 Towbola 197121  34 May 30 16:07 0-hello_world
+-rwxr-xr-x 1 Towbola 197121  31 May 30 16:07 1-confused_smiley
+-rwxr-xr-x 1 Towbola 197121  30 May 30 16:07 2-hellofile
+-rwxr-xr-x 1 Towbola 197121  41 May 30 16:07 3-twofiles
+-rwxr-xr-x 1 Towbola 197121  37 May 30 16:07 4-lastlines
+-rwxr-xr-x 1 Towbola 197121  37 May 30 16:07 5-firstlines
+-rwxr-xr-x 1 Towbola 197121  43 May 30 16:07 6-third_line
+-rwxr-xr-x 1 Towbola 197121 101 May 30 16:09 7-file
+-rwxr-xr-x 1 Towbola 197121  36 May 30 16:14 8-cwd_state
+-rwxr-xr-x 1 Towbola 197121  28 May 30 16:45 9-duplicate_last_line
+-rw-r--r-- 1 Towbola 197121  20 May 30 16:07 README.md
+-rw-r--r-- 1 Towbola 197121   0 May 30 16:56 ls_cwd_content
